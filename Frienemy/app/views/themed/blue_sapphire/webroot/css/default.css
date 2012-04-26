@@ -1,0 +1,330 @@
+/*############################## GLOBAL ###############################*/	
+html,body {
+	margin:0;
+	padding:0;
+}
+
+body {
+	background-color: #666;
+	font: 76% arial,sans-serif;
+}
+
+label {
+	display:block;
+	float:left;
+	font-weight:bold;
+	width:100px;
+}
+
+/*############################## HEADER ###############################*/	
+div#header {
+	background: url(../img/bg_header.gif) repeat-x; 
+	margin-left:16px;
+	width:687px;
+}
+
+div#header h1 {
+	height:80px;
+	line-height:80px;
+	margin:0;
+	padding-left:10px;
+	color: #79B30B;
+}
+
+div#header h1 a {
+	color: #fff;
+	text-decoration: none;
+}
+/*############################## CONTAINER ###############################*/	
+
+div#container {
+	background: url(../img/bg_dark687.gif) repeat-y; 
+	margin:0 auto;
+	text-align:left;
+	width:730px;
+}
+div#container p {
+	margin:0 10px 10px;
+}
+div#container ul.add a {
+	color: #981793;
+	padding:10px;
+}
+/*############################## WRAPPER ###############################*/	
+div#wrapper {
+}
+
+/*############################## CONTENT ###############################*/	
+div#content {
+	margin:25px;
+}
+div#content p {
+	line-height:1.4;
+}
+div#content h1 {
+	color: #4b6299;
+	font-size: 1.4em;
+}
+div#content p {
+	line-height:1.4;
+	padding: 3px;
+}
+div#content ul {
+	margin: 0;
+	padding: 0;
+}
+div#content ul.add li {
+	height: 25px;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+div#content ul.add li a {
+	background: url(../img/icon_add.gif) no-repeat 0px 7px; 
+	color: #4b6299;
+	text-decoration: none;
+	padding-left: 19px;
+}
+/*############################## NAVBAR ###############################*/	
+/*div#navbar {
+	background:#3D88FF none repeat scroll 0%;
+	float:left;
+	left:16px;
+	position:relative;
+	width:687px;
+}
+
+div#navbar li {
+	float: left;
+	list-style-type: none;
+}
+
+div#navbar a {
+	color: #7f521d;
+	display: block;
+	text-decoration: none;
+}
+*/
+div#navbar {
+	background:transparent url(../img/bg_nav_off.gif) repeat-x scroll 0% 50%;
+	clear:left;
+	height:35px;
+	margin:0pt 0pt 0pt 16px;
+	padding:0px;
+	width:687px;
+}
+div#navbar ul {
+	clear: left;
+	list-style-type: none;
+	margin: 0pt;
+	padding: 0pt;
+	text-align: center;
+	width: 100%;
+}
+div#navbar ul li {
+	background:transparent url(../img/bg_nav_off.gif) repeat-x;
+	float: left;
+	vertical-align: middle;
+	width: 137px;
+}
+div#navbar ul li a {
+	color: #fff;
+	display: block;
+	letter-spacing: 1px;
+	text-decoration: none;
+}
+div#navbar ul li a:hover {
+	background:transparent url(../img/bg_nav_hov.gif) repeat-x;
+	color:#fff;
+}
+div#navbar ul li a.on {
+	background:transparent url(../img/bg_nav_on.gif) repeat-x;
+}
+div#navbar a {
+	color: #981793;
+	padding:10px;
+}
+
+/*############################## EXTRA ###############################*/	
+div#extra {
+	background:#7f521d;
+	clear:both;
+	width:100%;
+}
+
+div#extra p {
+	color: #3dd4ff;
+	padding: 3px;
+}
+
+/*############################## FOOTER ###############################*/	
+div#footer {
+	background: #000;
+	clear:left;
+	color: #fff;
+	height: 80px;
+	margin-left: 16px;
+	width: 687px;
+}
+div#footer li {
+	float: left;
+	list-style-type: none;
+	padding: 2px;
+}
+div#footer p {
+	margin:0;
+	padding:5px 10px;
+}
+
+/*############################## DATAGRID ###############################*/	
+div#gridWrapper {
+	border: 1px solid #4b6299;
+	margin-right:10px;
+	overflow: scroll;
+	width: auto;
+}
+table#datagrid {
+	border-collapse: collapse;
+	width: 100%;
+}
+table#datagrid thead {
+	margin: 0;
+	padding: 0;
+}
+table#datagrid th {
+	background: #4b6299;
+	color: #fff;
+	height: 30px;
+}
+table#datagrid th a {
+	color: #fff;
+}
+table#datagrid th.actions {
+	width: 180px;
+}
+table#datagrid th.created {
+	width: 130px;
+}
+table#datagrid td {
+	height: 25px;
+	white-space:nowrap;
+}
+table#datagrid a {
+	color: #4b6299;
+	display: inline;
+	margin: 0px;
+	padding: 5px 8px 5px 8px;
+	text-decoration: none;
+}
+th.amount,th.charge,th.cost,th.disbursement,th.dollar,th.dollar_amount,th.expense,th.height,th.loss,th.number,th.price,th.payment,th.price_tag,th.total,th.totals,th.tolls,th.width {
+	text-align:right;
+	padding-right: 2px;
+}
+td.amount,td.charge,td.cost,td.disbursement,td.dollar,td.dollar_amount,td.expense,td.height,td.loss,td.number,td.price,td.payment,td.price_tag,td.total,td.totals,td.tolls,td.width {
+	text-align:right;
+	padding-right: 2px;
+}
+th.actions,td.actions {
+	text-align:center;
+}
+div.paging {
+	display: block;
+	white-space: none;
+}
+div.paging ul li{
+	display:inline;
+}
+div.paging div.disabled {
+	display:inline;
+}
+p.counter {
+	margin: 0;
+}
+/*############################## FORM ###############################*/	
+div.input {
+	clear:both;
+	padding: 5px 0;
+}
+div.input.checkbox {
+	padding-left:95px;
+	white-space:nowrap;
+}
+div.input.checkbox input {
+	float:left;
+}
+label.readonly {
+	color:#888;
+}
+div.label {
+	display:block;
+	clear:both;
+	padding: 5px 0;
+}
+div.readonly {
+	color:#888;
+}
+div.submit {
+	margin-top: 10px;
+}
+div.select > div.x-form-field-wrap {
+	margin-left:100px;
+}
+/*############################## MESSAGES ###############################*/	
+div.message {
+	clear: both;
+	color: #900;
+	font-size: 140%;
+	font-weight: bold;
+	margin: 1em 0;
+}
+div.error-message {
+	clear: both;
+	color: #900;
+	font-weight: bold;
+	padding: 5px;
+}
+p.error {
+	background-color: #e32;
+	color: #fff;
+	font-family: Courier, monospace;
+	font-size: 120%;
+	line-height: 140%;
+	padding: 0.8em;
+	margin: 1em 0;
+}
+p.error em {
+	color: #000;
+	font-weight: normal;
+	line-height: 140%;
+}
+.notice {
+	background: #ffcc00;
+	color: #000;
+	display: block;
+	font-family: Courier, monospace;
+	font-size: 120%;
+	line-height: 140%;
+	padding: 0.8em;
+	margin: 1em 0;
+}
+.success {
+	background: green;
+	color: #fff;
+}
+/*############################## DEVELOPMENT ###############################*/	
+.cake-sql-log {
+	clear:both;
+}
+#cakeControllerDump {
+	clear:both;
+}
+/*############################## ACTIONS ###############################*/	
+div.additional.actions ul {
+	background: #ccc;
+	margin-right:20px !important;
+	padding:0 0 10px 10px !important;
+}
+div.additional.actions ul li {
+	list-style-type:none;
+	padding:3px;
+}

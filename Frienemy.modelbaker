@@ -483,7 +483,7 @@
     </object>
     <object type="PREFERENCE" id="z187">
         <attribute name="versionnumber" type="string">0.1</attribute>
-        <attribute name="lastbuilddate" type="date">357138628.90365099906921386719</attribute>
+        <attribute name="lastbuilddate" type="date">357142596.91492599248886108398</attribute>
         <attribute name="zip" type="string"></attribute>
         <attribute name="state" type="string"></attribute>
         <attribute name="name" type="string">Frienemy</attribute>
@@ -506,7 +506,7 @@
         <attribute name="companyname" type="string"></attribute>
         <attribute name="city" type="string"></attribute>
         <attribute name="cakedeployenabled" type="bool">1</attribute>
-        <attribute name="buildpath" type="string">/Users/rosschapman/Public/frienemy</attribute>
+        <attribute name="buildpath" type="string">/Users/rosschapman/Code/PHP/Frienemy-Web-Service/Frienemy</attribute>
         <attribute name="address2" type="string"></attribute>
         <attribute name="address1" type="string"></attribute>
     </object>
@@ -981,11 +981,11 @@
         <relationship name="hmselectedrelationship" type="0/0" destination="HM"></relationship>
         <relationship name="horelationship" type="0/0" destination="HO"></relationship>
         <relationship name="hoselectedrelationship" type="0/0" destination="HO" idrefs="z681"></relationship>
-        <relationship name="attributerelationship" type="0/0" destination="ATTRIBUTE" idrefs="z755 z756 z802 z724"></relationship>
+        <relationship name="attributerelationship" type="0/0" destination="ATTRIBUTE" idrefs="z756 z802 z724 z755"></relationship>
         <relationship name="behaviorrelationship" type="0/0" destination="BEHAVIOR"></relationship>
         <relationship name="controllerrelationship" type="0/0" destination="CONTROLLER" idrefs="z256"></relationship>
         <relationship name="userelationship" type="0/0" destination="USE"></relationship>
-        <relationship name="useselectedrelationship" type="0/0" destination="USE" idrefs="z275 z826"></relationship>
+        <relationship name="useselectedrelationship" type="0/0" destination="USE" idrefs="z275"></relationship>
     </object>
     <object type="VIEWATTRIBUTE" id="z271">
         <attribute name="status" type="int16">23</attribute>
@@ -1362,11 +1362,11 @@
         <relationship name="hmselectedrelationship" type="0/0" destination="HM"></relationship>
         <relationship name="horelationship" type="0/0" destination="HO" idrefs="z626 z617"></relationship>
         <relationship name="hoselectedrelationship" type="0/0" destination="HO" idrefs="z712"></relationship>
-        <relationship name="attributerelationship" type="0/0" destination="ATTRIBUTE" idrefs="z540 z584 z409 z390 z565"></relationship>
+        <relationship name="attributerelationship" type="0/0" destination="ATTRIBUTE" idrefs="z584 z565 z540 z409 z390"></relationship>
         <relationship name="behaviorrelationship" type="0/0" destination="BEHAVIOR"></relationship>
         <relationship name="controllerrelationship" type="0/0" destination="CONTROLLER" idrefs="z516"></relationship>
         <relationship name="userelationship" type="0/0" destination="USE"></relationship>
-        <relationship name="useselectedrelationship" type="0/0" destination="USE" idrefs="z813 z296"></relationship>
+        <relationship name="useselectedrelationship" type="0/0" destination="USE" idrefs="z296"></relationship>
     </object>
     <object type="ACTION" id="z312">
         <attribute name="view" type="bool">1</attribute>
@@ -1502,11 +1502,11 @@
         <relationship name="hmselectedrelationship" type="0/0" destination="HM"></relationship>
         <relationship name="horelationship" type="0/0" destination="HO"></relationship>
         <relationship name="hoselectedrelationship" type="0/0" destination="HO" idrefs="z748"></relationship>
-        <relationship name="attributerelationship" type="0/0" destination="ATTRIBUTE" idrefs="z725 z720 z728 z711 z788"></relationship>
+        <relationship name="attributerelationship" type="0/0" destination="ATTRIBUTE" idrefs="z725 z728 z720 z711 z788"></relationship>
         <relationship name="behaviorrelationship" type="0/0" destination="BEHAVIOR"></relationship>
         <relationship name="controllerrelationship" type="0/0" destination="CONTROLLER" idrefs="z359"></relationship>
         <relationship name="userelationship" type="0/0" destination="USE"></relationship>
-        <relationship name="useselectedrelationship" type="0/0" destination="USE" idrefs="z528 z837"></relationship>
+        <relationship name="useselectedrelationship" type="0/0" destination="USE" idrefs="z528"></relationship>
     </object>
     <object type="ELEMENTTYPE" id="z324">
         <attribute name="status" type="int16">10</attribute>
@@ -1662,7 +1662,7 @@
         <relationship name="behaviorrelationship" type="0/0" destination="BEHAVIOR"></relationship>
         <relationship name="controllerrelationship" type="0/0" destination="CONTROLLER" idrefs="z610"></relationship>
         <relationship name="userelationship" type="0/0" destination="USE"></relationship>
-        <relationship name="useselectedrelationship" type="0/0" destination="USE" idrefs="z840 z509"></relationship>
+        <relationship name="useselectedrelationship" type="0/0" destination="USE" idrefs="z509"></relationship>
     </object>
     <object type="VIEWATTRIBUTE" id="z340">
         <attribute name="status" type="int16">23</attribute>
@@ -1994,13 +1994,13 @@
         <relationship name="habtmselectedrelationship" type="0/0" destination="HABTM"></relationship>
         <relationship name="hmrelationship" type="0/0" destination="HM"></relationship>
         <relationship name="hmselectedrelationship" type="0/0" destination="HM"></relationship>
-        <relationship name="horelationship" type="0/0" destination="HO" idrefs="z643 z635"></relationship>
+        <relationship name="horelationship" type="0/0" destination="HO" idrefs="z635 z643"></relationship>
         <relationship name="hoselectedrelationship" type="0/0" destination="HO"></relationship>
-        <relationship name="attributerelationship" type="0/0" destination="ATTRIBUTE" idrefs="z636 z630 z634 z622"></relationship>
+        <relationship name="attributerelationship" type="0/0" destination="ATTRIBUTE" idrefs="z636 z630 z622 z634"></relationship>
         <relationship name="behaviorrelationship" type="0/0" destination="BEHAVIOR"></relationship>
         <relationship name="controllerrelationship" type="0/0" destination="CONTROLLER" idrefs="z304"></relationship>
         <relationship name="userelationship" type="0/0" destination="USE"></relationship>
-        <relationship name="useselectedrelationship" type="0/0" destination="USE" idrefs="z533 z827"></relationship>
+        <relationship name="useselectedrelationship" type="0/0" destination="USE" idrefs="z533"></relationship>
     </object>
     <object type="ACTION" id="z374">
         <attribute name="view" type="bool">1</attribute>
@@ -2363,13 +2363,13 @@
         <relationship name="habtmselectedrelationship" type="0/0" destination="HABTM"></relationship>
         <relationship name="hmrelationship" type="0/0" destination="HM"></relationship>
         <relationship name="hmselectedrelationship" type="0/0" destination="HM"></relationship>
-        <relationship name="horelationship" type="0/0" destination="HO" idrefs="z712 z748"></relationship>
+        <relationship name="horelationship" type="0/0" destination="HO" idrefs="z748 z712"></relationship>
         <relationship name="hoselectedrelationship" type="0/0" destination="HO"></relationship>
-        <relationship name="attributerelationship" type="0/0" destination="ATTRIBUTE" idrefs="z751 z701 z726 z777"></relationship>
+        <relationship name="attributerelationship" type="0/0" destination="ATTRIBUTE" idrefs="z701 z751 z777 z726"></relationship>
         <relationship name="behaviorrelationship" type="0/0" destination="BEHAVIOR"></relationship>
         <relationship name="controllerrelationship" type="0/0" destination="CONTROLLER" idrefs="z320"></relationship>
         <relationship name="userelationship" type="0/0" destination="USE"></relationship>
-        <relationship name="useselectedrelationship" type="0/0" destination="USE" idrefs="z397 z819"></relationship>
+        <relationship name="useselectedrelationship" type="0/0" destination="USE" idrefs="z397"></relationship>
     </object>
     <object type="VIEW" id="z414">
         <attribute name="status" type="int16">4</attribute>
@@ -2601,7 +2601,7 @@
         <relationship name="behaviorrelationship" type="0/0" destination="BEHAVIOR"></relationship>
         <relationship name="controllerrelationship" type="0/0" destination="CONTROLLER" idrefs="z580"></relationship>
         <relationship name="userelationship" type="0/0" destination="USE"></relationship>
-        <relationship name="useselectedrelationship" type="0/0" destination="USE" idrefs="z347 z828"></relationship>
+        <relationship name="useselectedrelationship" type="0/0" destination="USE" idrefs="z347"></relationship>
     </object>
     <object type="CONTROLLER" id="z439">
         <attribute name="usetemplate" type="bool">0</attribute>
@@ -2955,12 +2955,12 @@
         <relationship name="hmrelationship" type="0/0" destination="HM"></relationship>
         <relationship name="hmselectedrelationship" type="0/0" destination="HM"></relationship>
         <relationship name="horelationship" type="0/0" destination="HO"></relationship>
-        <relationship name="hoselectedrelationship" type="0/0" destination="HO" idrefs="z635 z617 z738"></relationship>
-        <relationship name="attributerelationship" type="0/0" destination="ATTRIBUTE" idrefs="z771 z727 z799 z732 z801"></relationship>
+        <relationship name="hoselectedrelationship" type="0/0" destination="HO" idrefs="z635 z738 z617"></relationship>
+        <relationship name="attributerelationship" type="0/0" destination="ATTRIBUTE" idrefs="z732 z801 z771 z799 z727"></relationship>
         <relationship name="behaviorrelationship" type="0/0" destination="BEHAVIOR"></relationship>
         <relationship name="controllerrelationship" type="0/0" destination="CONTROLLER" idrefs="z606"></relationship>
         <relationship name="userelationship" type="0/0" destination="USE"></relationship>
-        <relationship name="useselectedrelationship" type="0/0" destination="USE" idrefs="z836 z603"></relationship>
+        <relationship name="useselectedrelationship" type="0/0" destination="USE" idrefs="z603"></relationship>
     </object>
     <object type="ACTION" id="z473">
         <attribute name="view" type="bool">1</attribute>
@@ -3385,12 +3385,12 @@
         <relationship name="hmrelationship" type="0/0" destination="HM"></relationship>
         <relationship name="hmselectedrelationship" type="0/0" destination="HM"></relationship>
         <relationship name="horelationship" type="0/0" destination="HO" idrefs="z670 z658"></relationship>
-        <relationship name="hoselectedrelationship" type="0/0" destination="HO" idrefs="z683 z767"></relationship>
-        <relationship name="attributerelationship" type="0/0" destination="ATTRIBUTE" idrefs="z654 z653 z660 z657"></relationship>
+        <relationship name="hoselectedrelationship" type="0/0" destination="HO" idrefs="z767 z683"></relationship>
+        <relationship name="attributerelationship" type="0/0" destination="ATTRIBUTE" idrefs="z653 z654 z657 z660"></relationship>
         <relationship name="behaviorrelationship" type="0/0" destination="BEHAVIOR"></relationship>
         <relationship name="controllerrelationship" type="0/0" destination="CONTROLLER" idrefs="z398"></relationship>
         <relationship name="userelationship" type="0/0" destination="USE"></relationship>
-        <relationship name="useselectedrelationship" type="0/0" destination="USE" idrefs="z815 z431"></relationship>
+        <relationship name="useselectedrelationship" type="0/0" destination="USE" idrefs="z431"></relationship>
     </object>
     <object type="VIEWATTRIBUTE" id="z520">
         <attribute name="status" type="int16">23</attribute>
@@ -3536,7 +3536,7 @@
         <relationship name="behaviorrelationship" type="0/0" destination="BEHAVIOR"></relationship>
         <relationship name="controllerrelationship" type="0/0" destination="CONTROLLER" idrefs="z464"></relationship>
         <relationship name="userelationship" type="0/0" destination="USE"></relationship>
-        <relationship name="useselectedrelationship" type="0/0" destination="USE" idrefs="z302 z829"></relationship>
+        <relationship name="useselectedrelationship" type="0/0" destination="USE" idrefs="z302"></relationship>
     </object>
     <object type="ACTION" id="z537">
         <attribute name="view" type="bool">1</attribute>
@@ -3826,11 +3826,11 @@
         <relationship name="hmselectedrelationship" type="0/0" destination="HM"></relationship>
         <relationship name="horelationship" type="0/0" destination="HO"></relationship>
         <relationship name="hoselectedrelationship" type="0/0" destination="HO"></relationship>
-        <relationship name="attributerelationship" type="0/0" destination="ATTRIBUTE" idrefs="z722 z713 z808 z739"></relationship>
+        <relationship name="attributerelationship" type="0/0" destination="ATTRIBUTE" idrefs="z808 z722 z739 z713"></relationship>
         <relationship name="behaviorrelationship" type="0/0" destination="BEHAVIOR"></relationship>
         <relationship name="controllerrelationship" type="0/0" destination="CONTROLLER" idrefs="z301"></relationship>
         <relationship name="userelationship" type="0/0" destination="USE"></relationship>
-        <relationship name="useselectedrelationship" type="0/0" destination="USE" idrefs="z362 z835 z820"></relationship>
+        <relationship name="useselectedrelationship" type="0/0" destination="USE" idrefs="z362"></relationship>
     </object>
     <object type="ENTITY" id="z567">
         <attribute name="y" type="string">0</attribute>
@@ -3849,13 +3849,13 @@
         <relationship name="habtmselectedrelationship" type="0/0" destination="HABTM"></relationship>
         <relationship name="hmrelationship" type="0/0" destination="HM"></relationship>
         <relationship name="hmselectedrelationship" type="0/0" destination="HM"></relationship>
-        <relationship name="horelationship" type="0/0" destination="HO" idrefs="z767 z738"></relationship>
+        <relationship name="horelationship" type="0/0" destination="HO" idrefs="z738 z767"></relationship>
         <relationship name="hoselectedrelationship" type="0/0" destination="HO"></relationship>
-        <relationship name="attributerelationship" type="0/0" destination="ATTRIBUTE" idrefs="z700 z752 z807 z763 z774 z734"></relationship>
+        <relationship name="attributerelationship" type="0/0" destination="ATTRIBUTE" idrefs="z763 z734 z700 z807 z752 z774"></relationship>
         <relationship name="behaviorrelationship" type="0/0" destination="BEHAVIOR"></relationship>
         <relationship name="controllerrelationship" type="0/0" destination="CONTROLLER" idrefs="z439"></relationship>
         <relationship name="userelationship" type="0/0" destination="USE"></relationship>
-        <relationship name="useselectedrelationship" type="0/0" destination="USE" idrefs="z460 z839"></relationship>
+        <relationship name="useselectedrelationship" type="0/0" destination="USE" idrefs="z460"></relationship>
     </object>
     <object type="VIEWATTRIBUTE" id="z568">
         <attribute name="status" type="int16">23</attribute>
@@ -4164,13 +4164,13 @@
         <relationship name="habtmselectedrelationship" type="0/0" destination="HABTM"></relationship>
         <relationship name="hmrelationship" type="0/0" destination="HM"></relationship>
         <relationship name="hmselectedrelationship" type="0/0" destination="HM"></relationship>
-        <relationship name="horelationship" type="0/0" destination="HO" idrefs="z683 z681"></relationship>
+        <relationship name="horelationship" type="0/0" destination="HO" idrefs="z681 z683"></relationship>
         <relationship name="hoselectedrelationship" type="0/0" destination="HO"></relationship>
         <relationship name="attributerelationship" type="0/0" destination="ATTRIBUTE" idrefs="z682"></relationship>
         <relationship name="behaviorrelationship" type="0/0" destination="BEHAVIOR"></relationship>
         <relationship name="controllerrelationship" type="0/0" destination="CONTROLLER" idrefs="z469"></relationship>
         <relationship name="userelationship" type="0/0" destination="USE"></relationship>
-        <relationship name="useselectedrelationship" type="0/0" destination="USE" idrefs="z830 z613"></relationship>
+        <relationship name="useselectedrelationship" type="0/0" destination="USE" idrefs="z613"></relationship>
     </object>
     <object type="VIEWATTRIBUTE" id="z600">
         <attribute name="status" type="int16">23</attribute>
@@ -6169,225 +6169,5 @@
         <relationship name="elementrelationship" type="0/0" destination="ELEMENT"></relationship>
         <relationship name="javascriptrelationship" type="0/0" destination="JAVASCRIPT"></relationship>
         <relationship name="viewattributerelationship" type="0/0" destination="VIEWATTRIBUTE"></relationship>
-    </object>
-    <object type="VIEW" id="z812">
-        <attribute name="status" type="int16">4</attribute>
-        <attribute name="name" type="string">edit</attribute>
-        <relationship name="controllerrelationship" type="1/1" destination="CONTROLLER" idrefs="z838"></relationship>
-        <relationship name="cssrelationship" type="0/0" destination="CSS"></relationship>
-        <relationship name="elementrelationship" type="0/0" destination="ELEMENT" idrefs="z821"></relationship>
-        <relationship name="javascriptrelationship" type="0/0" destination="JAVASCRIPT"></relationship>
-        <relationship name="viewattributerelationship" type="0/0" destination="VIEWATTRIBUTE"></relationship>
-    </object>
-    <object type="USE" id="z813">
-        <attribute name="status" type="int16">2</attribute>
-        <relationship name="controllerrelationship" type="1/1" destination="CONTROLLER" idrefs="z838"></relationship>
-        <relationship name="entityrelationship" type="1/1" destination="ENTITY"></relationship>
-        <relationship name="entityselectedrelationship" type="1/1" destination="ENTITY" idrefs="z311"></relationship>
-    </object>
-    <object type="ACTION" id="z814">
-        <attribute name="view" type="bool">1</attribute>
-        <attribute name="status" type="int16">11</attribute>
-        <attribute name="sidenav" type="bool">0</attribute>
-        <attribute name="navbar" type="bool">1</attribute>
-        <attribute name="name" type="string">index</attribute>
-        <attribute name="httpauthenabled" type="bool">0</attribute>
-        <attribute name="adminenabled" type="bool">0</attribute>
-        <relationship name="controllerrelationship" type="1/1" destination="CONTROLLER" idrefs="z838"></relationship>
-    </object>
-    <object type="USE" id="z815">
-        <attribute name="status" type="int16">2</attribute>
-        <relationship name="controllerrelationship" type="1/1" destination="CONTROLLER" idrefs="z838"></relationship>
-        <relationship name="entityrelationship" type="1/1" destination="ENTITY"></relationship>
-        <relationship name="entityselectedrelationship" type="1/1" destination="ENTITY" idrefs="z519"></relationship>
-    </object>
-    <object type="ACTION" id="z816">
-        <attribute name="view" type="bool">1</attribute>
-        <attribute name="status" type="int16">11</attribute>
-        <attribute name="sidenav" type="bool">0</attribute>
-        <attribute name="navbar" type="bool">0</attribute>
-        <attribute name="name" type="string">DataService</attribute>
-        <attribute name="httpauthenabled" type="bool">0</attribute>
-        <attribute name="adminenabled" type="bool">0</attribute>
-        <relationship name="controllerrelationship" type="1/1" destination="CONTROLLER" idrefs="z838"></relationship>
-    </object>
-    <object type="ELEMENTPARAMETER" id="z817">
-        <attribute name="value" type="string">add</attribute>
-        <attribute name="name" type="string">mode</attribute>
-        <relationship name="elementrelationship" type="1/1" destination="ELEMENT" idrefs="z823"></relationship>
-    </object>
-    <object type="ACTION" id="z818">
-        <attribute name="view" type="bool">1</attribute>
-        <attribute name="status" type="int16">11</attribute>
-        <attribute name="sidenav" type="bool">0</attribute>
-        <attribute name="navbar" type="bool">0</attribute>
-        <attribute name="name" type="string">edit</attribute>
-        <attribute name="httpauthenabled" type="bool">0</attribute>
-        <attribute name="adminenabled" type="bool">0</attribute>
-        <relationship name="controllerrelationship" type="1/1" destination="CONTROLLER" idrefs="z838"></relationship>
-    </object>
-    <object type="USE" id="z819">
-        <attribute name="status" type="int16">2</attribute>
-        <relationship name="controllerrelationship" type="1/1" destination="CONTROLLER" idrefs="z838"></relationship>
-        <relationship name="entityrelationship" type="1/1" destination="ENTITY"></relationship>
-        <relationship name="entityselectedrelationship" type="1/1" destination="ENTITY" idrefs="z413"></relationship>
-    </object>
-    <object type="USE" id="z820">
-        <attribute name="status" type="int16">2</attribute>
-        <relationship name="controllerrelationship" type="1/1" destination="CONTROLLER" idrefs="z838"></relationship>
-        <relationship name="entityrelationship" type="1/1" destination="ENTITY"></relationship>
-        <relationship name="entityselectedrelationship" type="1/1" destination="ENTITY" idrefs="z566"></relationship>
-    </object>
-    <object type="ELEMENT" id="z821">
-        <attribute name="status" type="int16">10</attribute>
-        <attribute name="index" type="int16">0</attribute>
-        <attribute name="elementcache" type="bool">0</attribute>
-        <relationship name="elementtyperelationship" type="1/1" destination="ELEMENTTYPE" idrefs="z834"></relationship>
-        <relationship name="viewrelationship" type="1/1" destination="VIEW" idrefs="z812"></relationship>
-        <relationship name="elementparameterrelationship" type="0/0" destination="ELEMENTPARAMETER" idrefs="z833"></relationship>
-    </object>
-    <object type="VIEW" id="z822">
-        <attribute name="status" type="int16">4</attribute>
-        <attribute name="name" type="string">view</attribute>
-        <relationship name="controllerrelationship" type="1/1" destination="CONTROLLER" idrefs="z838"></relationship>
-        <relationship name="cssrelationship" type="0/0" destination="CSS"></relationship>
-        <relationship name="elementrelationship" type="0/0" destination="ELEMENT"></relationship>
-        <relationship name="javascriptrelationship" type="0/0" destination="JAVASCRIPT"></relationship>
-        <relationship name="viewattributerelationship" type="0/0" destination="VIEWATTRIBUTE"></relationship>
-    </object>
-    <object type="ELEMENT" id="z823">
-        <attribute name="status" type="int16">10</attribute>
-        <attribute name="index" type="int16">0</attribute>
-        <attribute name="elementcache" type="bool">0</attribute>
-        <relationship name="elementtyperelationship" type="1/1" destination="ELEMENTTYPE" idrefs="z834"></relationship>
-        <relationship name="viewrelationship" type="1/1" destination="VIEW" idrefs="z825"></relationship>
-        <relationship name="elementparameterrelationship" type="0/0" destination="ELEMENTPARAMETER" idrefs="z817"></relationship>
-    </object>
-    <object type="ACTION" id="z824">
-        <attribute name="view" type="bool">1</attribute>
-        <attribute name="status" type="int16">11</attribute>
-        <attribute name="sidenav" type="bool">0</attribute>
-        <attribute name="navbar" type="bool">0</attribute>
-        <attribute name="name" type="string">view</attribute>
-        <attribute name="httpauthenabled" type="bool">0</attribute>
-        <attribute name="adminenabled" type="bool">0</attribute>
-        <relationship name="controllerrelationship" type="1/1" destination="CONTROLLER" idrefs="z838"></relationship>
-    </object>
-    <object type="VIEW" id="z825">
-        <attribute name="status" type="int16">4</attribute>
-        <attribute name="name" type="string">add</attribute>
-        <relationship name="controllerrelationship" type="1/1" destination="CONTROLLER" idrefs="z838"></relationship>
-        <relationship name="cssrelationship" type="0/0" destination="CSS"></relationship>
-        <relationship name="elementrelationship" type="0/0" destination="ELEMENT" idrefs="z823"></relationship>
-        <relationship name="javascriptrelationship" type="0/0" destination="JAVASCRIPT"></relationship>
-        <relationship name="viewattributerelationship" type="0/0" destination="VIEWATTRIBUTE"></relationship>
-    </object>
-    <object type="USE" id="z826">
-        <attribute name="status" type="int16">2</attribute>
-        <relationship name="controllerrelationship" type="1/1" destination="CONTROLLER" idrefs="z838"></relationship>
-        <relationship name="entityrelationship" type="1/1" destination="ENTITY"></relationship>
-        <relationship name="entityselectedrelationship" type="1/1" destination="ENTITY" idrefs="z270"></relationship>
-    </object>
-    <object type="USE" id="z827">
-        <attribute name="status" type="int16">2</attribute>
-        <relationship name="controllerrelationship" type="1/1" destination="CONTROLLER" idrefs="z838"></relationship>
-        <relationship name="entityrelationship" type="1/1" destination="ENTITY"></relationship>
-        <relationship name="entityselectedrelationship" type="1/1" destination="ENTITY" idrefs="z373"></relationship>
-    </object>
-    <object type="USE" id="z828">
-        <attribute name="status" type="int16">2</attribute>
-        <relationship name="controllerrelationship" type="1/1" destination="CONTROLLER" idrefs="z838"></relationship>
-        <relationship name="entityrelationship" type="1/1" destination="ENTITY"></relationship>
-        <relationship name="entityselectedrelationship" type="1/1" destination="ENTITY" idrefs="z438"></relationship>
-    </object>
-    <object type="USE" id="z829">
-        <attribute name="status" type="int16">2</attribute>
-        <relationship name="controllerrelationship" type="1/1" destination="CONTROLLER" idrefs="z838"></relationship>
-        <relationship name="entityrelationship" type="1/1" destination="ENTITY"></relationship>
-        <relationship name="entityselectedrelationship" type="1/1" destination="ENTITY" idrefs="z536"></relationship>
-    </object>
-    <object type="USE" id="z830">
-        <attribute name="status" type="int16">2</attribute>
-        <relationship name="controllerrelationship" type="1/1" destination="CONTROLLER" idrefs="z838"></relationship>
-        <relationship name="entityrelationship" type="1/1" destination="ENTITY"></relationship>
-        <relationship name="entityselectedrelationship" type="1/1" destination="ENTITY" idrefs="z599"></relationship>
-    </object>
-    <object type="ACTION" id="z831">
-        <attribute name="view" type="bool">1</attribute>
-        <attribute name="status" type="int16">11</attribute>
-        <attribute name="sidenav" type="bool">0</attribute>
-        <attribute name="navbar" type="bool">0</attribute>
-        <attribute name="name" type="string">delete</attribute>
-        <attribute name="httpauthenabled" type="bool">0</attribute>
-        <attribute name="adminenabled" type="bool">0</attribute>
-        <relationship name="controllerrelationship" type="1/1" destination="CONTROLLER" idrefs="z838"></relationship>
-    </object>
-    <object type="VIEW" id="z832">
-        <attribute name="status" type="int16">4</attribute>
-        <attribute name="name" type="string">index</attribute>
-        <relationship name="controllerrelationship" type="1/1" destination="CONTROLLER" idrefs="z838"></relationship>
-        <relationship name="cssrelationship" type="0/0" destination="CSS"></relationship>
-        <relationship name="elementrelationship" type="0/0" destination="ELEMENT"></relationship>
-        <relationship name="javascriptrelationship" type="0/0" destination="JAVASCRIPT"></relationship>
-        <relationship name="viewattributerelationship" type="0/0" destination="VIEWATTRIBUTE"></relationship>
-    </object>
-    <object type="ELEMENTPARAMETER" id="z833">
-        <attribute name="value" type="string">edit</attribute>
-        <attribute name="name" type="string">mode</attribute>
-        <relationship name="elementrelationship" type="1/1" destination="ELEMENT" idrefs="z821"></relationship>
-    </object>
-    <object type="ELEMENTTYPE" id="z834">
-        <attribute name="status" type="int16">10</attribute>
-        <attribute name="name" type="string">form</attribute>
-        <attribute name="body" type="string">insertElementTypeEntities</attribute>
-        <relationship name="controllerrelationship" type="1/1" destination="CONTROLLER" idrefs="z838"></relationship>
-        <relationship name="elementrelationship" type="0/0" destination="ELEMENT" idrefs="z821 z823"></relationship>
-        <relationship name="viewattributerelationship" type="0/0" destination="VIEWATTRIBUTE"></relationship>
-    </object>
-    <object type="USE" id="z835">
-        <attribute name="status" type="int16">2</attribute>
-        <relationship name="controllerrelationship" type="1/1" destination="CONTROLLER" idrefs="z838"></relationship>
-        <relationship name="entityrelationship" type="1/1" destination="ENTITY"></relationship>
-        <relationship name="entityselectedrelationship" type="1/1" destination="ENTITY" idrefs="z566"></relationship>
-    </object>
-    <object type="USE" id="z836">
-        <attribute name="status" type="int16">2</attribute>
-        <relationship name="controllerrelationship" type="1/1" destination="CONTROLLER" idrefs="z838"></relationship>
-        <relationship name="entityrelationship" type="1/1" destination="ENTITY"></relationship>
-        <relationship name="entityselectedrelationship" type="1/1" destination="ENTITY" idrefs="z472"></relationship>
-    </object>
-    <object type="USE" id="z837">
-        <attribute name="status" type="int16">2</attribute>
-        <relationship name="controllerrelationship" type="1/1" destination="CONTROLLER" idrefs="z838"></relationship>
-        <relationship name="entityrelationship" type="1/1" destination="ENTITY"></relationship>
-        <relationship name="entityselectedrelationship" type="1/1" destination="ENTITY" idrefs="z323"></relationship>
-    </object>
-    <object type="CONTROLLER" id="z838">
-        <attribute name="usetemplate" type="bool">0</attribute>
-        <attribute name="url" type="string">/data_service</attribute>
-        <attribute name="status" type="int16">3</attribute>
-        <attribute name="paginationenabled" type="bool">1</attribute>
-        <attribute name="name" type="string">DataService</attribute>
-        <attribute name="httpauthenabled" type="bool">0</attribute>
-        <relationship name="entityrelationship" type="1/1" destination="ENTITY"></relationship>
-        <relationship name="httpauthrelationship" type="0/0" destination="HTTPAUTH"></relationship>
-        <relationship name="actionrelationship" type="0/0" destination="ACTION" idrefs="z814 z818 z824 z831 z816"></relationship>
-        <relationship name="componentrelationship" type="0/0" destination="COMPONENT"></relationship>
-        <relationship name="elementtyperelationship" type="0/0" destination="ELEMENTTYPE" idrefs="z834"></relationship>
-        <relationship name="helperrelationship" type="1/0" destination="HELPER"></relationship>
-        <relationship name="userelationship" type="0/0" destination="USE" idrefs="z815 z820 z836 z819 z828 z839 z835 z837 z827 z813 z826 z829 z830 z840"></relationship>
-        <relationship name="viewrelationship" type="0/0" destination="VIEW" idrefs="z832 z822 z825 z812"></relationship>
-    </object>
-    <object type="USE" id="z839">
-        <attribute name="status" type="int16">2</attribute>
-        <relationship name="controllerrelationship" type="1/1" destination="CONTROLLER" idrefs="z838"></relationship>
-        <relationship name="entityrelationship" type="1/1" destination="ENTITY"></relationship>
-        <relationship name="entityselectedrelationship" type="1/1" destination="ENTITY" idrefs="z567"></relationship>
-    </object>
-    <object type="USE" id="z840">
-        <attribute name="status" type="int16">2</attribute>
-        <relationship name="controllerrelationship" type="1/1" destination="CONTROLLER" idrefs="z838"></relationship>
-        <relationship name="entityrelationship" type="1/1" destination="ENTITY"></relationship>
-        <relationship name="entityselectedrelationship" type="1/1" destination="ENTITY" idrefs="z339"></relationship>
     </object>
 </database>

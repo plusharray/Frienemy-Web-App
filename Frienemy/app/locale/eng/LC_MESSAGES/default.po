@@ -1,0 +1,714 @@
+msgid "about"
+msgstr "About"
+
+msgid "actions"
+msgstr "Actions"
+
+msgid "add"
+msgstr "Add"
+
+msgid "add_app"
+msgstr "Add App"
+
+msgid "add_appdevice"
+msgstr "Add Appdevice"
+
+msgid "add_appdevicesubscription"
+msgstr "Add Appdevicesubscription"
+
+msgid "add_appsubscription"
+msgstr "Add Appsubscription"
+
+msgid "add_certificate"
+msgstr "Add Certificate"
+
+msgid "add_certificateserver"
+msgstr "Add Certificateserver"
+
+msgid "add_certificatetype"
+msgstr "Add Certificatetype"
+
+msgid "add_device"
+msgstr "Add Device"
+
+msgid "add_feed"
+msgstr "Add Feed"
+
+msgid "add_feeddevice"
+msgstr "Add Feeddevice"
+
+msgid "add_friend"
+msgstr "Add Friend"
+
+msgid "add_messagequeue"
+msgstr "Add Messagequeue"
+
+msgid "add_server"
+msgstr "Add Server"
+
+msgid "address"
+msgstr "Address"
+
+msgid "app"
+msgstr "App"
+
+msgid "app_could_not_be_saved"
+msgstr "App Could Not Be Saved"
+
+msgid "app_detail_information"
+msgstr "App Detail Information"
+
+msgid "app_has_been_deleted"
+msgstr "App Has Been Deleted"
+
+msgid "app_has_been_saved"
+msgstr "App Has Been Saved"
+
+msgid "app_was_not_deleted"
+msgstr "App Was Not Deleted"
+
+msgid "appdevice"
+msgstr "Appdevice"
+
+msgid "appdevice_could_not_be_saved"
+msgstr "Appdevice Could Not Be Saved"
+
+msgid "appdevice_detail_information"
+msgstr "Appdevice Detail Information"
+
+msgid "appdevice_has_been_deleted"
+msgstr "Appdevice Has Been Deleted"
+
+msgid "appdevice_has_been_saved"
+msgstr "Appdevice Has Been Saved"
+
+msgid "appdevice_was_not_deleted"
+msgstr "Appdevice Was Not Deleted"
+
+msgid "appdeviceid"
+msgstr "Appdeviceid"
+
+msgid "appdevices"
+msgstr "Appdevices"
+
+msgid "appdevicesubscription"
+msgstr "Appdevicesubscription"
+
+msgid "appdevicesubscription_could_not_be_saved"
+msgstr "Appdevicesubscription Could Not Be Saved"
+
+msgid "appdevicesubscription_detail_information"
+msgstr "Appdevicesubscription Detail Information"
+
+msgid "appdevicesubscription_has_been_deleted"
+msgstr "Appdevicesubscription Has Been Deleted"
+
+msgid "appdevicesubscription_has_been_saved"
+msgstr "Appdevicesubscription Has Been Saved"
+
+msgid "appdevicesubscription_was_not_deleted"
+msgstr "Appdevicesubscription Was Not Deleted"
+
+msgid "appdevicesubscriptionid"
+msgstr "Appdevicesubscriptionid"
+
+msgid "appdevicesubscriptions"
+msgstr "Appdevicesubscriptions"
+
+msgid "appid"
+msgstr "Appid"
+
+msgid "appname"
+msgstr "Appname"
+
+msgid "apps"
+msgstr "Apps"
+
+msgid "appsubscription"
+msgstr "Appsubscription"
+
+msgid "appsubscription_could_not_be_saved"
+msgstr "Appsubscription Could Not Be Saved"
+
+msgid "appsubscription_detail_information"
+msgstr "Appsubscription Detail Information"
+
+msgid "appsubscription_has_been_deleted"
+msgstr "Appsubscription Has Been Deleted"
+
+msgid "appsubscription_has_been_saved"
+msgstr "Appsubscription Has Been Saved"
+
+msgid "appsubscription_was_not_deleted"
+msgstr "Appsubscription Was Not Deleted"
+
+msgid "appsubscriptionid"
+msgstr "Appsubscriptionid"
+
+msgid "appsubscriptions"
+msgstr "Appsubscriptions"
+
+msgid "badge"
+msgstr "Badge"
+
+msgid "certificate"
+msgstr "Certificate"
+
+msgid "certificate_could_not_be_saved"
+msgstr "Certificate Could Not Be Saved"
+
+msgid "certificate_detail_information"
+msgstr "Certificate Detail Information"
+
+msgid "certificate_has_been_deleted"
+msgstr "Certificate Has Been Deleted"
+
+msgid "certificate_has_been_saved"
+msgstr "Certificate Has Been Saved"
+
+msgid "certificate_was_not_deleted"
+msgstr "Certificate Was Not Deleted"
+
+msgid "certificateid"
+msgstr "Certificateid"
+
+msgid "certificatename"
+msgstr "Certificatename"
+
+msgid "certificates"
+msgstr "Certificates"
+
+msgid "certificateserver"
+msgstr "Certificateserver"
+
+msgid "certificateserver_could_not_be_saved"
+msgstr "Certificateserver Could Not Be Saved"
+
+msgid "certificateserver_detail_information"
+msgstr "Certificateserver Detail Information"
+
+msgid "certificateserver_has_been_deleted"
+msgstr "Certificateserver Has Been Deleted"
+
+msgid "certificateserver_has_been_saved"
+msgstr "Certificateserver Has Been Saved"
+
+msgid "certificateserver_was_not_deleted"
+msgstr "Certificateserver Was Not Deleted"
+
+msgid "certificateserverid"
+msgstr "Certificateserverid"
+
+msgid "certificateservers"
+msgstr "Certificateservers"
+
+msgid "certificatetype"
+msgstr "Certificatetype"
+
+msgid "certificatetype_could_not_be_saved"
+msgstr "Certificatetype Could Not Be Saved"
+
+msgid "certificatetype_detail_information"
+msgstr "Certificatetype Detail Information"
+
+msgid "certificatetype_has_been_deleted"
+msgstr "Certificatetype Has Been Deleted"
+
+msgid "certificatetype_has_been_saved"
+msgstr "Certificatetype Has Been Saved"
+
+msgid "certificatetype_was_not_deleted"
+msgstr "Certificatetype Was Not Deleted"
+
+msgid "certificatetypeid"
+msgstr "Certificatetypeid"
+
+msgid "certificatetypename"
+msgstr "Certificatetypename"
+
+msgid "certificatetypes"
+msgstr "Certificatetypes"
+
+msgid "city"
+msgstr "City"
+
+msgid "company_name"
+msgstr "Company Name"
+
+msgid "contact_information"
+msgstr "Contact Information"
+
+msgid "country"
+msgstr "Country"
+
+msgid "created"
+msgstr "Created"
+
+msgid "dateadded"
+msgstr "Dateadded"
+
+msgid "datelastchecked"
+msgstr "Datelastchecked"
+
+msgid "datelastupdated"
+msgstr "Datelastupdated"
+
+msgid "dateupdated"
+msgstr "Dateupdated"
+
+msgid "delete"
+msgstr "Delete"
+
+msgid "description"
+msgstr "Description"
+
+msgid "device"
+msgstr "Device"
+
+msgid "device_could_not_be_saved"
+msgstr "Device Could Not Be Saved"
+
+msgid "device_detail_information"
+msgstr "Device Detail Information"
+
+msgid "device_has_been_deleted"
+msgstr "Device Has Been Deleted"
+
+msgid "device_has_been_saved"
+msgstr "Device Has Been Saved"
+
+msgid "device_was_not_deleted"
+msgstr "Device Was Not Deleted"
+
+msgid "deviceactive"
+msgstr "Deviceactive"
+
+msgid "deviceid"
+msgstr "Deviceid"
+
+msgid "devicenotes"
+msgstr "Devicenotes"
+
+msgid "devices"
+msgstr "Devices"
+
+msgid "devicetoken"
+msgstr "Devicetoken"
+
+msgid "domain_name"
+msgstr "Domain Name"
+
+msgid "edit"
+msgstr "Edit"
+
+msgid "edit_app"
+msgstr "Edit App"
+
+msgid "edit_appdevice"
+msgstr "Edit Appdevice"
+
+msgid "edit_appdevicesubscription"
+msgstr "Edit Appdevicesubscription"
+
+msgid "edit_appsubscription"
+msgstr "Edit Appsubscription"
+
+msgid "edit_certificate"
+msgstr "Edit Certificate"
+
+msgid "edit_certificateserver"
+msgstr "Edit Certificateserver"
+
+msgid "edit_certificatetype"
+msgstr "Edit Certificatetype"
+
+msgid "edit_device"
+msgstr "Edit Device"
+
+msgid "edit_feed"
+msgstr "Edit Feed"
+
+msgid "edit_feeddevice"
+msgstr "Edit Feeddevice"
+
+msgid "edit_friend"
+msgstr "Edit Friend"
+
+msgid "edit_messagequeue"
+msgstr "Edit Messagequeue"
+
+msgid "edit_server"
+msgstr "Edit Server"
+
+msgid "email"
+msgstr "Email"
+
+msgid "enabled"
+msgstr "Enabled"
+
+msgid "facebookid"
+msgstr "Facebookid"
+
+msgid "feed"
+msgstr "Feed"
+
+msgid "feed_could_not_be_saved"
+msgstr "Feed Could Not Be Saved"
+
+msgid "feed_detail_information"
+msgstr "Feed Detail Information"
+
+msgid "feed_has_been_deleted"
+msgstr "Feed Has Been Deleted"
+
+msgid "feed_has_been_saved"
+msgstr "Feed Has Been Saved"
+
+msgid "feed_was_not_deleted"
+msgstr "Feed Was Not Deleted"
+
+msgid "feeddevice"
+msgstr "Feeddevice"
+
+msgid "feeddevice_could_not_be_saved"
+msgstr "Feeddevice Could Not Be Saved"
+
+msgid "feeddevice_detail_information"
+msgstr "Feeddevice Detail Information"
+
+msgid "feeddevice_has_been_deleted"
+msgstr "Feeddevice Has Been Deleted"
+
+msgid "feeddevice_has_been_saved"
+msgstr "Feeddevice Has Been Saved"
+
+msgid "feeddevice_was_not_deleted"
+msgstr "Feeddevice Was Not Deleted"
+
+msgid "feeddeviceid"
+msgstr "Feeddeviceid"
+
+msgid "feeddevices"
+msgstr "Feeddevices"
+
+msgid "feedid"
+msgstr "Feedid"
+
+msgid "feedname"
+msgstr "Feedname"
+
+msgid "feeds"
+msgstr "Feeds"
+
+msgid "feedurl"
+msgstr "Feedurl"
+
+msgid "first_name"
+msgstr "First Name"
+
+msgid "friend"
+msgstr "Friend"
+
+msgid "friend_could_not_be_saved"
+msgstr "Friend Could Not Be Saved"
+
+msgid "friend_detail_information"
+msgstr "Friend Detail Information"
+
+msgid "friend_has_been_deleted"
+msgstr "Friend Has Been Deleted"
+
+msgid "friend_has_been_saved"
+msgstr "Friend Has Been Saved"
+
+msgid "friend_was_not_deleted"
+msgstr "Friend Was Not Deleted"
+
+msgid "friendid"
+msgstr "Friendid"
+
+msgid "friendname"
+msgstr "Friendname"
+
+msgid "friends"
+msgstr "Friends"
+
+msgid "home"
+msgstr "Home"
+
+msgid "id"
+msgstr "Id"
+
+msgid "index"
+msgstr "Index"
+
+msgid "invalid_app"
+msgstr "Invalid App"
+
+msgid "invalid_appdevice"
+msgstr "Invalid Appdevice"
+
+msgid "invalid_appdevicesubscription"
+msgstr "Invalid Appdevicesubscription"
+
+msgid "invalid_appsubscription"
+msgstr "Invalid Appsubscription"
+
+msgid "invalid_certificate"
+msgstr "Invalid Certificate"
+
+msgid "invalid_certificateserver"
+msgstr "Invalid Certificateserver"
+
+msgid "invalid_certificatetype"
+msgstr "Invalid Certificatetype"
+
+msgid "invalid_device"
+msgstr "Invalid Device"
+
+msgid "invalid_feed"
+msgstr "Invalid Feed"
+
+msgid "invalid_feeddevice"
+msgstr "Invalid Feeddevice"
+
+msgid "invalid_friend"
+msgstr "Invalid Friend"
+
+msgid "invalid_messagequeue"
+msgstr "Invalid Messagequeue"
+
+msgid "invalid_server"
+msgstr "Invalid Server"
+
+msgid "isfrienemy"
+msgstr "Isfrienemy"
+
+msgid "istestdevice"
+msgstr "Istestdevice"
+
+msgid "keycertfile"
+msgstr "Keycertfile"
+
+msgid "last_name"
+msgstr "Last Name"
+
+msgid "launchcount"
+msgstr "Launchcount"
+
+msgid "list_of_appdevices"
+msgstr "List Of Appdevices"
+
+msgid "list_of_appdevicesubscriptions"
+msgstr "List Of Appdevicesubscriptions"
+
+msgid "list_of_apps"
+msgstr "List Of Apps"
+
+msgid "list_of_appsubscriptions"
+msgstr "List Of Appsubscriptions"
+
+msgid "list_of_certificates"
+msgstr "List Of Certificates"
+
+msgid "list_of_certificateservers"
+msgstr "List Of Certificateservers"
+
+msgid "list_of_certificatetypes"
+msgstr "List Of Certificatetypes"
+
+msgid "list_of_devices"
+msgstr "List Of Devices"
+
+msgid "list_of_feeddevices"
+msgstr "List Of Feeddevices"
+
+msgid "list_of_feeds"
+msgstr "List Of Feeds"
+
+msgid "list_of_friends"
+msgstr "List Of Friends"
+
+msgid "list_of_messagequeues"
+msgstr "List Of Messagequeues"
+
+msgid "list_of_servers"
+msgstr "List Of Servers"
+
+msgid "message"
+msgstr "Message"
+
+msgid "messageid"
+msgstr "Messageid"
+
+msgid "messagequeue"
+msgstr "Messagequeue"
+
+msgid "messagequeue_could_not_be_saved"
+msgstr "Messagequeue Could Not Be Saved"
+
+msgid "messagequeue_detail_information"
+msgstr "Messagequeue Detail Information"
+
+msgid "messagequeue_has_been_deleted"
+msgstr "Messagequeue Has Been Deleted"
+
+msgid "messagequeue_has_been_saved"
+msgstr "Messagequeue Has Been Saved"
+
+msgid "messagequeue_was_not_deleted"
+msgstr "Messagequeue Was Not Deleted"
+
+msgid "messagequeues"
+msgstr "Messagequeues"
+
+msgid "modified"
+msgstr "Modified"
+
+msgid "name"
+msgstr "Name"
+
+msgid "passphrase"
+msgstr "Passphrase"
+
+msgid "related_app"
+msgstr "Related App"
+
+msgid "related_appdevice"
+msgstr "Related Appdevice"
+
+msgid "related_appdevices"
+msgstr "Related Appdevices"
+
+msgid "related_appdevicesubscription"
+msgstr "Related Appdevicesubscription"
+
+msgid "related_appdevicesubscriptions"
+msgstr "Related Appdevicesubscriptions"
+
+msgid "related_apps"
+msgstr "Related Apps"
+
+msgid "related_appsubscription"
+msgstr "Related Appsubscription"
+
+msgid "related_appsubscriptions"
+msgstr "Related Appsubscriptions"
+
+msgid "related_certificate"
+msgstr "Related Certificate"
+
+msgid "related_certificates"
+msgstr "Related Certificates"
+
+msgid "related_certificateserver"
+msgstr "Related Certificateserver"
+
+msgid "related_certificateservers"
+msgstr "Related Certificateservers"
+
+msgid "related_certificatetype"
+msgstr "Related Certificatetype"
+
+msgid "related_certificatetypes"
+msgstr "Related Certificatetypes"
+
+msgid "related_device"
+msgstr "Related Device"
+
+msgid "related_devices"
+msgstr "Related Devices"
+
+msgid "related_feed"
+msgstr "Related Feed"
+
+msgid "related_feeddevice"
+msgstr "Related Feeddevice"
+
+msgid "related_feeddevices"
+msgstr "Related Feeddevices"
+
+msgid "related_feeds"
+msgstr "Related Feeds"
+
+msgid "related_friend"
+msgstr "Related Friend"
+
+msgid "related_friends"
+msgstr "Related Friends"
+
+msgid "related_messagequeue"
+msgstr "Related Messagequeue"
+
+msgid "related_messagequeues"
+msgstr "Related Messagequeues"
+
+msgid "related_server"
+msgstr "Related Server"
+
+msgid "related_servers"
+msgstr "Related Servers"
+
+msgid "save"
+msgstr "Save"
+
+msgid "server"
+msgstr "Server"
+
+msgid "server_could_not_be_saved"
+msgstr "Server Could Not Be Saved"
+
+msgid "server_detail_information"
+msgstr "Server Detail Information"
+
+msgid "server_has_been_deleted"
+msgstr "Server Has Been Deleted"
+
+msgid "server_has_been_saved"
+msgstr "Server Has Been Saved"
+
+msgid "server_was_not_deleted"
+msgstr "Server Was Not Deleted"
+
+msgid "serverid"
+msgstr "Serverid"
+
+msgid "servername"
+msgstr "Servername"
+
+msgid "servers"
+msgstr "Servers"
+
+msgid "servertypeid"
+msgstr "Servertypeid"
+
+msgid "serverurl"
+msgstr "Serverurl"
+
+msgid "sound"
+msgstr "Sound"
+
+msgid "status"
+msgstr "Status"
+
+msgid "submit"
+msgstr "Submit"
+
+msgid "subscriptionenabled"
+msgstr "Subscriptionenabled"
+
+msgid "subscriptionname"
+msgstr "Subscriptionname"
+
+msgid "version"
+msgstr "Version"
+
+msgid "view"
+msgstr "View"
+
+msgid "web_application_information"
+msgstr "Web Application Information"
+
+msgid "zip_postal"
+msgstr "Zip Postal"
+
