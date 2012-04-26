@@ -1,0 +1,9 @@
+[submodule "Libraries/Facebook Plugin"]
+	path = Libraries/Facebook Plugin
+	url = git@github.com:plusharray/CakePHP-Facebook-Plugin.git
+[submodule "Libraries/Debug Kit"]
+	path = Libraries/Debug Kit
+	url = git@github.com:plusharray/debug_kit.git
+[submodule "Libraries/JSON Component"]
+	path = Libraries/JSON Component
+	url = git@github.com:plusharray/json-component-cakephp-plugin.git
